@@ -3,7 +3,7 @@
 My name is Jan Seulin, from São Paulo - Brazil. I'm a Software Analysis and Development student and an IT Intern at a big world-wide company. My main goal is to become a full stack web developer and that's what I'm working for right now. 
 
 ## Projects
-- DeliverKing Website (Mock-up) [[Live Demo]](https://janseulin.github.io/delivery-website--mock-up/) - Interactive website created to practice HTML, CSS and Vanilla Javascript knowledge. 
+- **DeliverKing Website** (Mock-up) [[Live Demo]](https://janseulin.github.io/delivery-website--mock-up/) - Interactive website created to practice HTML, CSS and Vanilla Javascript knowledge. 
 -  **Portfolio Website** [[Live Demo]](https://janseulin.github.io/portfolio-website/) - Simple portfolio website, currently under construction as I'm focused on building another projects to add to it. 
 -  **Purple Ballad Minigame** [[Live Demo]](https://janseulin.github.io/purple-ballad--minigame/) - A reflex based game where your objective is to click on the purple rectangle on a grid as things gets faster and confusing.
 
