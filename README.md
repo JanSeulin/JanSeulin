@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-My name is Jan Seulin, from São Paulo - Brazil. I'm a Software Analysis and Development student and an IT Intern at a big world-wide company. My main goal is to become a full stack web developer and that's what I'm working for right now. 
+My name is Jan Seulin, from São Paulo - Brazil. I'm a Systems Analysis and Development student and an IT Intern at a big world-wide company. My main goal is to become a full stack web developer and that's what I'm working for right now. 
 
 ## Projects
 - **DeliverKing Website** (Mock-up) [[Live Demo]](https://janseulin.github.io/delivery-website--mock-up/) - Interactive website created to practice HTML, CSS and Vanilla Javascript knowledge. 
