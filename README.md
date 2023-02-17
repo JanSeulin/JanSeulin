@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-My name is Jan Seulin, from São Paulo - Brazil. I'm a Systems Analysis and Development student and an IT Intern at a big world-wide company. My main goal is to become a full stack web developer and that's what I'm working for right now. 
+My name is Jan Seulin, from São Paulo - Brazil. I'm a Systems Analysis and Development student that aspires to become a full stack web developer. Here's the demonstrations of some of my personal projects:
 
 ## Projects
 - **The Wired Hardware Store** [[Live Demo]](https://janseulin.github.io/TheWired/#/) **Initial Phase* - A Hardware E-commerce mock-up website created with React. Work in progress. 
