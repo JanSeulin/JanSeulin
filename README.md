@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-My name is Jan Seulin, from São Paulo - Brazil. I'm a Systems Analysis and Development student that aspires to become a full stack web developer. Here's the demonstrations of some of my personal projects:
+My name is Jan Seulin, from São Paulo - Brazil. I'm a Systems Analysis and Development student that aspires to become a full stack web developer. Below you can see the demos of some of my personal projects:
 
 ## Projects
 - **The Wired Hardware Store** [[Live Demo]](https://janseulin.github.io/TheWired/#/) - A Hardware E-commerce mock-up website created with React. Not 100% functional, but it serves the initial practicing purpose. 
