@@ -3,6 +3,7 @@
 My name is Jan Seulin, from São Paulo - Brazil. I'm a Systems Analysis and Development student that aspires to become a full stack web developer. Below you can see the demos of some of my personal projects:
 
 ## Projects
+- **Natours** [[Live Demo]](https://natours-production-cbef.up.railway.app/) - App powered by Node.js, Express and MongoDB. Part of an Udemy course with some personal additions and modifications. Will be replaced by a project 100% of my own soon. 
 - **The Wired Hardware Store** [[Live Demo]](https://janseulin.github.io/TheWired/#/) - A Hardware E-commerce mock-up website created with React. 
 - **DeliverKing Website** [[Live Demo]](https://janseulin.github.io/delivery-website--mock-up/) - A mock-up website created with the purpose of practicing HTML, CSS and vanilla Javascript.
 -  **Portfolio Website** [[Live Demo]](https://janseulin.github.io/portfolio-website/) - Simple portfolio website. Still under construction.
