@@ -4,9 +4,9 @@ My name is Jan Seulin, from São Paulo - Brazil. I'm a Systems Analysis and Deve
 
 ## Projects
 - **Natours** [[Live Demo]](https://natours-production-cbef.up.railway.app/) - App powered by Node.js, Express and MongoDB. Part of an Udemy course with some personal additions and modifications. Will be replaced by a project 100% of my own soon. 
-- **The Wired Hardware Store** [[Live Demo]](https://janseulin.github.io/TheWired/#/) - A Hardware E-commerce mock-up website created with React. 
-- **DeliverKing Website** [[Live Demo]](https://janseulin.github.io/delivery-website--mock-up/) - A mock-up website created with the purpose of practicing HTML, CSS and vanilla Javascript.
--  **Portfolio Website** [[Live Demo]](https://janseulin.github.io/portfolio-website/) - Simple portfolio website. Still under construction.
+- **The Wired Hardware Store** [[Live Demo]](https://janseulin.github.io/TheWired/#/) - An E-commerce mock-up single-page application created with React and Firebase. 
+- **DeliverKing Website** [[Live Demo]](https://janseulin.github.io/delivery-website--mock-up/) - Website created with the purpose of practicing HTML, CSS, vanilla Javascript and some basic design principles.
+-  **Portfolio Website** [[Live Demo]](https://janseulin.github.io/portfolio-website/) - Personal portfolio website. Under construction.
 -  **Purple Ballad Minigame** [[Live Demo]](https://janseulin.github.io/purple-ballad--minigame/) - A reflex based game where your objective is to click on the purple rectangle on a grid as things gets faster and confusing.
 
 
