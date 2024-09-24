@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-My name is Jan Seulin, from São Paulo - Brazil. At the moment working at the Images department of a Brazilian Tech company, focused on the creation and deployment of customized operating system images. Below you can see the demos of some of my personal projects:
+My name is Jan Seulin, from São Paulo - Brazil. At the moment working I'm an IT Analist in the Images department of a Brazilian Tech company, focused on the creation and deployment of customized operating system images. Below you can see the demos of some of my personal projects:
 
 ## Projects
 - **The Wired Hardware Store** [[Live Demo]](https://janseulin.github.io/TheWired/#/) - An E-commerce mock-up single-page application created with React and Firebase. 
